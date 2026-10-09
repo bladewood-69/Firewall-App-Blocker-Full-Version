@@ -229,4 +229,4 @@ This repository serves as the official landing page for Firewall App Blocker. Th
 **Get the most recent version of Firewall App Blocker today!**
 
 ---
-**Last updated:** 2026-10-09 10:05:25 UTC
+**Last updated:** 2026-10-09 17:19:45 UTC
